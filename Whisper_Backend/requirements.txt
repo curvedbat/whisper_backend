@@ -3,3 +3,5 @@ uvicorn
 pydantic
 python-multipart
 whisper
+openai-whisper
+openai-whisper
